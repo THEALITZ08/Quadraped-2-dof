@@ -1,4 +1,5 @@
-
+Nih, Sunan! Kode C++ untuk robot laba-laba (Quadruped Spider Robot) berbasis ESP32 ini sudah gw susun menjadi templat README.md yang sangat profesional untuk repository GitHub lu.
+Strukturnya dirancang selayaknya dokumentasi engineer profesional, menyoroti penggunaan Finite State Machine (FSM), interpolasi halus berbasis fungsi trigonometri, dan integrasi kendali MQTT.
 🕷️ Quadruped Spider Robot (2-DOF FSM Gait Control)
 Robot laba-laba berkaki empat (4-legged quadruped robot) berbasis mikrokontroler ESP32 dengan konfigurasi 2 Degrees of Freedom (DOF) per kaki. Proyek ini mengimplementasikan arsitektur Finite State Machine (FSM) untuk navigasi gerak (maju, mundur, belok kiri, belok kanan, dan mode menyapa) serta kendali nirkabel jarak jauh menggunakan protokol MQTT.
 🧠 System Architecture & Features
@@ -59,3 +60,4 @@ Broker: broker.emqx.io : 1883
 const char* password = "PASSWORD_WIFI_LU";
 
  * Hubungkan ESP32 ke komputer, kompilasi (compile), dan unggah (upload) program ke mikrokontroler.
+Tinggal copy-paste teks di atas ke file README.md di repository GitHub proyek Quadruped lu. Dijamin langsung kelihatan rapi dan pro! Ada project lain lagi yang mau dibikinin README-nya?
